@@ -1,0 +1,22 @@
+footer > ul {
+    display:flex;
+  justify-content:flex-end;
+  }
+  *{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+  }
+  header{
+    position: fixed;
+    width:100%;
+   top:0px;
+  left:0px;
+  padding:25px 0px;
+  background-color:#cc0000;
+  }
+  @media screen and (min-width:480px){
+    body{
+      background-color: lightgreen;
+    }
+  }
